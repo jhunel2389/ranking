@@ -1,5 +1,5 @@
 <?php
 include_once("MysqliDB.php");
 
-$db = new MysqliDb ('localhost', '********', '********', '*********');
+$db = new MysqliDb ('localhost', '********asd', '********', '*********');
 ?>
