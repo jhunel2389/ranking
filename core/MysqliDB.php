@@ -4,7 +4,7 @@
  *
  * @category  Database Access
  * @package   MysqliDb
- * @author    Jeffery Way <jeffrey@jeffrey-way.com>
+ * @author    Jeffery Way 
  * @author    Josh Campbell <jcampbell@ajillion.com>
  * @author    Alexander V. Butenko <a.butenka@gmail.com>
  * @copyright Copyright (c) 2010
