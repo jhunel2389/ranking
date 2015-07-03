@@ -6,7 +6,7 @@
 	/*$criteria = $db->get ('fm_criteria');*/
 	//$ranking = $db->get ('fw_ranking');
 
-	//test revert by jhunel
+
 	$userId = [];
 	$result = [];
 	$temp = 0;
